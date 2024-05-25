@@ -11,6 +11,6 @@ The "Jack" is a special voice chatbot that works with ChatGPTs API (OpenAI API) 
 
 
 
-if you facing any issues with running this project you may contact me at my email ID
+if you facing any issues with running this project you may contact me with my  email ID
 
 sanketx125@gmail.com
